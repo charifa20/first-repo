@@ -1,0 +1,16 @@
+#tous les fichers nommes password.txt
+#password.txt
+ 
+
+#le fichier password.txt du sous-dossier subfolder
+#subfolder/password.txt
+
+#tous les dossiers nommes subfolder
+#subfolder/
+
+#le dossier subfolder a la racine du repo 
+#/subfolder/
+
+#les les fichers finissant par .txt
+*.txt
+
